@@ -1,0 +1,1 @@
+https://console.firebase.google.com/u/0/project/people-counter-d8a76/firestore/databases/-default-/data/~2Fpeople~2FTLw9niRQlCrEfePz8rH0?view=panel-view&query=1%7CLIM%7C3%2F100&scopeType=collection&scopeName=%2Fentering
