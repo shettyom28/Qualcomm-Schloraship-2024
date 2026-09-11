@@ -69,6 +69,3 @@ A real-time people counting system that uses a webcam feed, YOLOv8 object detect
 
 This project requires a Firebase service account key to write to Firestore. That key file should **never** be pushed to GitHub or any public location — it grants full read/write access to the database. Keep it local and reference it only through the `FIREBASE_CRED_PATH` environment variable, as shown above.
 
-## License
-
-Add a license of your choice (e.g. MIT) if you plan to share this project publicly.
